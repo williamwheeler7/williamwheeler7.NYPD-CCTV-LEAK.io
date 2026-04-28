@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: #141313;
+
+
+    h1 {
+        color: Purple;
+        font-family: "Calibri"
+    }
+
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: 400px 400px 400px;
+        grid-template-rows: 300px 300px 300px
+    }
+
+    .item {
+        padding: 2em;
+        background-color: var(red);
+        color: purple;
+        text-align: center;
+        border-radius: 8px;
+        font-size: 2rem;
+    }
+
+
+}
+
