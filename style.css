@@ -6,7 +6,12 @@ body {
 
     h1 {
         color: Purple;
-        font-family: "Calibri"
+        font-family: "Calibri";
+    }
+
+    p {
+        color: Purple;
+        font-family: "Calibri";
     }
 
 
