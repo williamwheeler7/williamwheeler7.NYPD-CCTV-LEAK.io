@@ -22,10 +22,11 @@ body {
         grid-template-rows: 300px 300px 300px
     }
 
-    .item img {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
+  .item img {
+    width: 90%;   /* try 80%, 70%, etc */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* centers it */
 }
 
 
