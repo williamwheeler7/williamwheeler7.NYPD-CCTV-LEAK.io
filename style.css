@@ -2,6 +2,7 @@
 
 body {
     background-color: #141313;
+}
 
 
     h1 {
@@ -21,12 +22,11 @@ body {
         grid-template-rows: 300px 300px 300px
     }
 
-    .item {
+    .item img {
     width: 100%;
     height: 180px;
     object-fit: cover;
 }
 
 
-}
 
