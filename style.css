@@ -17,13 +17,10 @@ body {
     }
 
     .item {
-        padding: 2em;
-        background-color: var(red);
-        color: purple;
-        text-align: center;
-        border-radius: 8px;
-        font-size: 2rem;
-    }
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
 
 
 }
